@@ -1,0 +1,1 @@
+<h1>Selamat datang <?= $data["nama"] ?> di menu utama, Umur anda adalah <?= $data["umur"] ?> Tahun</h1>
